@@ -14,7 +14,11 @@ Unas vez agregadas las nuevas branch nos aparecera asi
 
 ![image](https://github.com/IsSact22/proweb_IsaacHung/assets/127360020/27c1b787-24df-49e3-842b-81f2bf6417f5)
 
-y asi finalizamos con la creacion de un repositorio y creacion de las branch esta es una explicacion personal para lo que utilizaria las ramas creadas:
+## Aparte de esta forma de crear los branch, tambien podemos aplicar los comando de git para hacerlo que son los siguiente:
+- **`git branch -m (nombre de la rama)`**: esto lo usamos para crear la branch al repositorio
+- **`git checkout`**: es para movernos y trabajar entre las ramas, para esto seleccionamos la rama que queramos trabajar dentro del repositorio.
+
+Y asi finalizamos con la creacion de un repositorio y creacion de las branch esta es una explicacion personal para lo que utilizaria las ramas creadas:
 
 - **`main`**: La rama principal que refleja la versión en producción de tu proyecto. No debes realizar cambios directamente en esta rama a menos que sea una versión estable y lista para ser implementada.
 
