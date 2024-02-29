@@ -2,6 +2,10 @@
 ## Se le implemento la tecnologia de Bootstrap, y css personal 
 ## El landing page se creo de manera por section para una mayor dinamica e interacción de la pagina con el usuario 
 
+## link para ver la pagina 
+https://issact22.github.io/proweb_IsaacHung/
+
+
 ## Presentacion inicial al entrar a la pagina 
 ![image](https://github.com/IsSact22/proweb_IsaacHung/assets/127360020/43fc9662-c4c5-49a9-b53d-8c3da61f7973)
 
@@ -21,5 +25,7 @@
 ## Presentacion de Contacto y un frame de donde estamos ubicados, agregando asi un footer sencillo y con un boton-top que sirve para regresar al inicio de la pagina para mayor comodidad 
 
 ![image](https://github.com/IsSact22/proweb_IsaacHung/assets/127360020/b2483e0b-ace1-44d0-a6fe-49674074965c)
+
+
 
 ## Como observo todo funcione de la manera correcta 
